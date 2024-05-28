@@ -1,1 +1,1 @@
-# lab2
+Laborátorio de Programação 2
